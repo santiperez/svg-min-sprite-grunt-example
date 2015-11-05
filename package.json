@@ -1,0 +1,17 @@
+{
+  "name": "svg-sprite-example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "grunt-contrib-clean": "*",
+    "time-grunt": "*",
+    "load-grunt-tasks": "*",
+    "grunt-svg-sprite": "*",
+    "grunt-svgmin": "*",
+    "grunt-notify":"*",
+    "grunt-contrib-copy": "*"
+  }
+}

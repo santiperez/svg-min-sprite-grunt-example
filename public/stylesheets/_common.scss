@@ -1,0 +1,124 @@
+%svg-common {
+	background: url(common.svg) no-repeat;
+}
+
+.svg-share-facebook {
+	@extend %svg-common;
+	background-position: 100% 31.914893617021278%;
+}
+
+.svg-share-facebook-dims {
+	width: 22px;
+	height: 30px;
+}
+
+.svg-share-facebook-on {
+	@extend %svg-common;
+	background-position: 100% 0;
+}
+
+.svg-share-facebook-on-dims {
+	width: 22px;
+	height: 30px;
+}
+
+.svg-share-googleplus {
+	@extend %svg-common;
+	background-position: 0 41.666666666666664%;
+}
+
+.svg-share-googleplus-dims {
+	width: 38px;
+	height: 28px;
+}
+
+.svg-share-googleplus-on {
+	@extend %svg-common;
+	background-position: 40.42553191489362% 41.666666666666664%;
+}
+
+.svg-share-googleplus-on-dims {
+	width: 38px;
+	height: 28px;
+}
+
+.svg-share-instagram {
+	@extend %svg-common;
+	background-position: 28.155339805825243% 100%;
+}
+
+.svg-share-instagram-dims {
+	width: 29px;
+	height: 29px;
+}
+
+.svg-share-instagram-on {
+	@extend %svg-common;
+	background-position: 0 100%;
+}
+
+.svg-share-instagram-on-dims {
+	width: 29px;
+	height: 29px;
+}
+
+.svg-share-pinterest {
+	@extend %svg-common;
+	background-position: 78.84615384615384% 0;
+}
+
+.svg-share-pinterest-dims {
+	width: 28px;
+	height: 33px;
+}
+
+.svg-share-pinterest-on {
+	@extend %svg-common;
+	background-position: 78.84615384615384% 36.26373626373626%;
+}
+
+.svg-share-pinterest-on-dims {
+	width: 28px;
+	height: 33px;
+}
+
+.svg-share-twitter {
+	@extend %svg-common;
+	background-position: 0 70.10309278350516%;
+}
+
+.svg-share-twitter-dims {
+	width: 31px;
+	height: 27px;
+}
+
+.svg-share-twitter-on {
+	@extend %svg-common;
+	background-position: 30.693069306930692% 70.10309278350516%;
+}
+
+.svg-share-twitter-on-dims {
+	width: 31px;
+	height: 27px;
+}
+
+.svg-twitter {
+	@extend %svg-common;
+	background-position: 45.05494505494506% 0;
+}
+
+.svg-twitter-dims {
+	width: 41px;
+	height: 40px;
+}
+
+.svg-twitter-on {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-twitter-on-dims {
+	width: 41px;
+	height: 40px;
+}
+
