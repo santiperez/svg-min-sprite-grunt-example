@@ -8,7 +8,7 @@ This is a basic example of the grunt-svg-sprite and grunt-svgmin node packages w
 ### Installation
 You need nodejs and grunt installed. Then execute the following commands:
 
-$ git clone [git-repo-url] svg-min-sprite-grunt-example
-$ cd svg-min-sprite-grunt-example
-$ npm install
-$ grunt
+$ git clone [git-repo-url] svg-min-sprite-grunt-example <br />
+$ cd svg-min-sprite-grunt-example <br />
+$ npm install <br />
+$ grunt <br />
